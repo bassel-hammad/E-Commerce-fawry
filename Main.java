@@ -16,8 +16,7 @@ public class Main {
         cart.add(cheese, 2);
         cart.add(tv, 3);
         cart.add(scratchCard, 1);
-        
-        // Attempt checkout
+    
         CheckoutService.checkout(customer, cart);
         
         System.out.println("END.");

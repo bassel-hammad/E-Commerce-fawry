@@ -25,7 +25,7 @@ public class Product {
         this.weight = weight;
     }
     
-    // Getter methods (Public interface to access private data)
+    // Getter methods 
     public String getName() {
         return name;
     }
