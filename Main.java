@@ -12,7 +12,7 @@ public class Main {
         // Create shopping cart
         ShoppingCart cart = new ShoppingCart();
         
-        // Add items to cart (as shown in example)
+        // Add items to cart 
         cart.add(cheese, 2);
         cart.add(tv, 3);
         cart.add(scratchCard, 1);
