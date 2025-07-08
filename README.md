@@ -49,7 +49,8 @@ E-Commerce-fawry/
 
 ## Sample Output
 
-![E-Commerce System Output](screenshot.png)
+![image](https://github.com/user-attachments/assets/71361156-419a-449e-a0fe-e42deffcb154)
+
 
 The system demonstrates:
 - Product creation with different types (Cheese, TV, Biscuits, ScratchCard)
